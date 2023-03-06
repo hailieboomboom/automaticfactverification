@@ -5,7 +5,9 @@ The system is designed to verify a set of claims based on given Wikipeida docume
 
 ## Tech Stack
 SciKit-Learn
+
 AllenNLP
+
 Python
 
 ## Notes:
